@@ -1,6 +1,8 @@
 ### ⚽ World Cup Statistics Manager  
 A project that manages **World Cup statistics** using **AVL Trees** for efficient data handling.  
 Each function provides unique insights about teams, players, and matches — all powered by balanced tree operations.  
+📄 **Important**:
+To fully understand the system architecture, data structures, and complexity guarantees, please review dry.pdf before diving into the code.
 
 🔹 **Key Concepts:** AVL Trees, Algorithm Design, Data Structures  
 🔹 **Features:**  
